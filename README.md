@@ -52,5 +52,8 @@ L'application est conçue pour aider les utilisateurs à :
 
 Visitez le site en ligne et commencez à gérer vos finances de manière intelligente : [https://incredible-sunshine-b4d756.netlify.app/](https://incredible-sunshine-b4d756.netlify.app/)
 
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/965a83af-ceda-4cf2-9abf-68adc569f431" />
 
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/19f1ec93-fc63-4da9-a505-c24a7f4f2fff" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/a8ff3ff7-3e33-4af5-a490-7450908cbd59" />
+
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/b64e92b5-24e4-486a-96a4-3d802ea65f28" />
